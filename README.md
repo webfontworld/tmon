@@ -1,6 +1,6 @@
 # 티몬체(Tmon)
 
-<a href="https://wess.tistory.com/273" target="_blank">
+<a href="https://wess.tistory.com" target="_blank">
     <img src="https://webfontworld.github.io/tmon/Tmon.jpg" alt="Tmon" style="width:300px">
 </a>
 <pre>
